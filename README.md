@@ -2,7 +2,7 @@
 
 ## Условие задачи
 
-Написать программу вычисления значения функции двух переменных. <img width="579" height="45" alt="image" src="https://github.com/user-attachments/assets/b89d1260-2f26-48ff-8a44-f29ee2d07179" />
+Написать программу вычисления значения функции двух переменных. <img width="874" height="76" alt="image" src="https://github.com/user-attachments/assets/872cfc12-36bf-4271-968e-a90231f38713" />
 
 
 ## Алгоритм и блок-схема
